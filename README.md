@@ -2,7 +2,7 @@
 
 # Shopping Cart Testing Assignment
 
-# Testing Strategy & Reflection
+## Testing Strategy & Reflection
 
 For this assignment, I used Vitest and React Testing Library to create both unit tests and component tests for the shopping cart application. 
 
@@ -20,20 +20,20 @@ Generating code coverage reports helped me identify untested areas of the applic
 
 efficient testing environment that made it easy to run and maintain tests throughout development.
 
-# Running the Application
+## Running the Application
 
 npm install
 npm run dev
 
-# Running Tests
+## Running Tests
 
 npm test
 
-# Running Tests with Coverage
+## Running Tests with Coverage
 
 npm run test:coverage
 
-# Coverage Report
+## Coverage Report
 
 After generating coverage, open:
 
