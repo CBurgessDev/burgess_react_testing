@@ -1,5 +1,3 @@
-# burgess_react_testing
-
 # Shopping Cart Testing Assignment
 
 ## Testing Strategy & Reflection
