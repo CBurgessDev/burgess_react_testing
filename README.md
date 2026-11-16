@@ -42,6 +42,8 @@ After generating coverage, open:
 coverage/index.html
 to view the HTML coverage report in the browser.
 
+file:///Users/christinaburgess/Downloads/index.html
+
 ## Coverage Screenshot 
 
 <img width="1234" height="801" alt="Screenshot 2026-11-16 at 10 23 42 AM" src="https://github.com/user-attachments/assets/db9efe48-89ba-485a-aaa6-a59901b4ce68" />
