@@ -2,21 +2,9 @@
 
 ## Testing Strategy & Reflection
 
-For this assignment, I used Vitest and React Testing Library to create both unit tests and component tests for the shopping cart application. 
+For this assignment, I used Vitest and React Testing Library to create both unit tests and component tests for the shopping cart application. The utility function tests focused on validating calculations, formatting, and edge cases such as empty arrays, boundary discount values, invalid quantities, and floating-point math. For the React component, I tested real user behaviors including adding items, removing items, updating quantities, clearing the cart, and verifying that totals were calculated correctly. 
 
-The utility function tests focused on validating calculations, formatting, and edge cases such as empty arrays, boundary discount values,
-
-invalid quantities, and floating-point math. For the React component, I tested real user behaviors including adding items, removing items, 
-
-updating quantities, clearing the cart, and verifying that totals were calculated correctly.
-
-Through this project, I learned how important automated testing is for verifying application behavior and preventing regressions. 
-
-I gained experience using assertions such as toBe, toEqual, and toBeCloseTo, as well as using userEvent to simulate realistic user interactions. 
-
-Generating code coverage reports helped me identify untested areas of the application and improve overall test quality. Vitest provided a fast and
-
-efficient testing environment that made it easy to run and maintain tests throughout development.
+Through this project, I learned how important automated testing is for verifying application behavior and preventing regressions. I gained experience using assertions such as toBe, toEqual, and toBeCloseTo, as well as using userEvent to simulate realistic user interactions. Generating code coverage reports helped me identify untested areas of the application and improve overall test quality. Vitest provided a fast and efficient testing environment that made it easy to run and maintain tests throughout development.
 
 ## Running the Application
 
