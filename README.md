@@ -27,6 +27,8 @@ npm run dev
 
 npm test
 
+<img width="706" height="284" alt="Screenshot 2026-11-16 at 11 32 07 AM" src="https://github.com/user-attachments/assets/7a36b194-1e54-4125-a8dc-5f6665cd454f" />
+
 ## Running Tests with Coverage
 
 npm run test:coverage
