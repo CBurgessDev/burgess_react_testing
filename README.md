@@ -46,3 +46,4 @@ to view the HTML coverage report in the browser.
 
 <img width="1234" height="801" alt="Screenshot 2026-11-16 at 10 23 42 AM" src="https://github.com/user-attachments/assets/db9efe48-89ba-485a-aaa6-a59901b4ce68" />
 
+<img width="542" height="355" alt="Screenshot 2026-11-16 at 11 37 15 AM" src="https://github.com/user-attachments/assets/6441e1c4-f07a-4709-8106-2bf1556f3b19" />
